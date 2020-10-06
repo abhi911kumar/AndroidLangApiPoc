@@ -1,0 +1,38 @@
+[
+  {
+    "key": "cattle",
+    "value": "cattle"
+  },
+  {
+    "key": "farmer",
+    "value": "farmer"
+  },
+  {
+    "key": "breeding",
+    "value": "breeding"
+  },
+  {
+    "key": "location",
+    "value": "location"
+  },
+  {
+    "key": "author",
+    "value": "author"
+  },
+  {
+    "key": "price",
+    "value": "price"
+  },
+  {
+    "key": "Select Language",
+    "value": "Select Language"
+  },
+  {
+    "key": "Next Screen",
+    "value": "Next Screen"
+  },
+  {
+    "key": "ALL BOOKS",
+    "value": "ALL BOOKS"
+  }
+]

@@ -1,0 +1,37 @@
+[{
+        "key": "cattle",
+        "value": "गाई - गुरे"
+    },
+    {
+        "key": "farmer",
+        "value": "शेतकरी"
+    },
+    {
+        "key": "breeding",
+        "value": "प्रजनन"
+    },
+    {
+        "key": "location",
+        "value": "स्थान"
+    },
+    {
+        "key": "author",
+        "value": "लेखक"
+    },
+    {
+        "key": "price",
+        "value": "किंमत"
+    },
+    {
+        "key": "Select Language",
+        "value": "भाषा निवडा"
+    },
+    {
+        "key": "Next Screen",
+        "value": "पुढील स्क्रीन"
+    },
+    {
+        "key": "ALL BOOKS",
+        "value": "सर्व पुस्तके"
+    }
+]

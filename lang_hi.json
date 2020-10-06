@@ -1,0 +1,37 @@
+[{
+        "key": "cattle",
+        "value": "पशु"
+    },
+    {
+        "key": "farmer",
+        "value": "किसान"
+    },
+    {
+        "key": "breeding",
+        "value": "प्रजनन"
+    },
+    {
+        "key": "location",
+        "value": "स्थान"
+    },
+    {
+        "key": "author",
+        "value": "लेखक"
+    },
+    {
+        "key": "price",
+        "value": "कीमत"
+    },
+    {
+        "key": "Select Language",
+        "value": "भाषा का चयन करें"
+    },
+    {
+        "key": "Next Screen",
+        "value": "अगली स्क्रीन"
+    },
+    {
+        "key": "ALL BOOKS",
+        "value": "सभी किताबें"
+    }
+]
