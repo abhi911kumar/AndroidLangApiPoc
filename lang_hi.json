@@ -1,36 +1,45 @@
 [{
+        "language_type": "hi",
         "key": "cattle",
         "value": "पशु"
     },
     {
+        "language_type": "hi",
         "key": "farmer",
         "value": "किसान"
     },
     {
+        "language_type": "hi",
         "key": "breeding",
         "value": "प्रजनन"
     },
     {
+        "language_type": "hi",
         "key": "location",
         "value": "स्थान"
     },
     {
+        "language_type": "hi",
         "key": "author",
         "value": "लेखक"
     },
     {
+        "language_type": "hi",
         "key": "price",
         "value": "कीमत"
     },
     {
+        "language_type": "hi",
         "key": "Select Language",
         "value": "भाषा का चयन करें"
     },
     {
+        "language_type": "hi",
         "key": "Next Screen",
         "value": "अगली स्क्रीन"
     },
     {
+        "language_type": "hi",
         "key": "ALL BOOKS",
         "value": "सभी किताबें"
     }

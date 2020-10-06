@@ -1,38 +1,46 @@
-[
-  {
-    "key": "cattle",
-    "value": "cattle"
-  },
-  {
-    "key": "farmer",
-    "value": "farmer"
-  },
-  {
-    "key": "breeding",
-    "value": "breeding"
-  },
-  {
-    "key": "location",
-    "value": "location"
-  },
-  {
-    "key": "author",
-    "value": "author"
-  },
-  {
-    "key": "price",
-    "value": "price"
-  },
-  {
-    "key": "Select Language",
-    "value": "Select Language"
-  },
-  {
-    "key": "Next Screen",
-    "value": "Next Screen"
-  },
-  {
-    "key": "ALL BOOKS",
-    "value": "ALL BOOKS"
-  }
+[{
+        "language_type": "en",
+        "key": "cattle",
+        "value": "cattle"
+    },
+    {
+        "language_type": "en",
+        "key": "farmer",
+        "value": "farmer"
+    },
+    {
+        "language_type": "en",
+        "key": "breeding",
+        "value": "breeding"
+    },
+    {
+        "language_type": "en",
+        "key": "location",
+        "value": "location"
+    },
+    {
+        "language_type": "en",
+        "key": "author",
+        "value": "author"
+    },
+    {
+        "language_type": "en",
+        "key": "price",
+        "value": "price"
+    },
+    {
+        "language_type": "en",
+        "key": "Select Language",
+        "value": "Select Language"
+    },
+    {
+        "language_type": "en",
+        "key": "Next Screen",
+        "value": "Next Screen"
+    },
+    {
+        "language_type": "en",
+        "key": "ALL BOOKS",
+        "value": "ALL BOOKS"
+    }
 ]

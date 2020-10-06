@@ -1,36 +1,45 @@
 [{
+        "language_type": "ma",
         "key": "cattle",
         "value": "गाई - गुरे"
     },
     {
+        "language_type": "ma",
         "key": "farmer",
         "value": "शेतकरी"
     },
     {
+        "language_type": "ma",
         "key": "breeding",
         "value": "प्रजनन"
     },
     {
+        "language_type": "ma",
         "key": "location",
         "value": "स्थान"
     },
     {
+        "language_type": "ma",
         "key": "author",
         "value": "लेखक"
     },
     {
+        "language_type": "ma",
         "key": "price",
         "value": "किंमत"
     },
     {
+        "language_type": "ma",
         "key": "Select Language",
         "value": "भाषा निवडा"
     },
     {
+        "language_type": "ma",
         "key": "Next Screen",
         "value": "पुढील स्क्रीन"
     },
     {
+        "language_type": "ma",
         "key": "ALL BOOKS",
         "value": "सर्व पुस्तके"
     }
